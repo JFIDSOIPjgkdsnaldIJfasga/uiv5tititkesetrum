@@ -1,4 +1,3 @@
-v5
 
 -- ── Anti Double Execute ─────────────────────────────────────
 if getgenv().__HaloHubLoaded then return end
